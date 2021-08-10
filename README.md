@@ -3,16 +3,12 @@
 ### Sobre Mim
  Eu sou graduado em Análise e Desenvolvimento de Sistemas e estudando as diversas tecnologias para me tornar um Dev FrontEnd!
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mbrazf)](https://github.com/mbrazf)
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8https://www.linkedin.com/in/marcelo-braz-da-silva-filho-028b33178/)
 [![Visits Badge](https://badges.pufler.dev/visits/mbrazf/mbrazf)](https://github.com/mbrazf)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrazf&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrazf)](https://github.com/mbrazf/github-readme-stats)
-
-
-
 
 
 ### Habilidades
