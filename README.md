@@ -6,6 +6,8 @@
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8https://www.linkedin.com/in/marcelo-braz-da-silva-filho-028b33178/)
 [![Visits Badge](https://badges.pufler.dev/visits/mbrazf/mbrazf)](https://github.com/mbrazf)
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrazf&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrazf)](https://github.com/mbrazf/github-readme-stats)
