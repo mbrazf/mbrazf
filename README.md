@@ -7,9 +7,7 @@
 
 ![Snake animation](https://github.com/mbrazf/mbrazf/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrazf&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrazf)](https://github.com/mbrazf/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrazf&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrazf)](https://github.com/mbrazf/github-readme-stats)
 
 
 ### Habilidades
