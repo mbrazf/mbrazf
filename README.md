@@ -3,7 +3,6 @@
 ### Sobre Mim
  Eu sou graduado em Análise e Desenvolvimento de Sistemas e estudando as diversas tecnologias para me tornar um Dev FrontEnd!
  
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8https://www.linkedin.com/in/marcelo-braz-da-silva-filho-028b33178/)
 [![Visits Badge](https://badges.pufler.dev/visits/mbrazf/mbrazf)](https://github.com/mbrazf)
 
 ![Snake animation](https://github.com/mbrazf/mbrazf/blob/output/github-contribution-grid-snake.svg)
@@ -17,6 +16,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Cloud
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
